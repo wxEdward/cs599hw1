@@ -136,9 +136,3 @@ if __name__ == "__main__":
         print("total number of success:",np.sum(sub_output))
 
 
-# In[17]:
-
-
-G = load_ca_grqc()
-len(G.nodes)
-
